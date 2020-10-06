@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+    <img class="center" alt="Ritika's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RitikaShrestha-me.RitikaShrestha-me"/>
