@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
+
+
+![Ritika's github stats](https://github-readme-stats.vercel.app/api?username=RitikaShrestha-me&show_icons=true&hide_border=true)
+
+<p align="center">
     <img class="center" alt="Ritika's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RitikaShrestha-me.RitikaShrestha-me"/>
+</p>
