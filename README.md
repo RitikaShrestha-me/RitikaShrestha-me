@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px" align="center">
+<img style="float: right;" src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px">
 <!-- OctoCats -->
 
 
