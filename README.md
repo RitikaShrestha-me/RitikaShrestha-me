@@ -2,10 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Ritika Shrestha</h1>
 
-🤓 Studying in 3rd Year, Bachelor's of Computer Engineering from NMIT
-🌱 Learning Web Development
-💎 A Proud Nepali
-👨‍💻 All of my projects are available at github.com/RitikaShrestha-me
+ 👩🏻‍🎓 Studying in 3rd Year, Bachelor's of Computer Engineering from NMIT
+
+ 🌱 Learning Web Development
+
+ ✈️ Love Travelling
+
+🇳🇵 A Proud Nepali
+
+ 👩🏻‍💻 All of my projects are available at github.com/RitikaShrestha-me
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
