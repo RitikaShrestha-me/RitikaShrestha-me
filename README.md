@@ -48,14 +48,14 @@
 
 <!--
     <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px">
-    OctoCats -->
+    OctoCats 
+chartreuse-dark
+-->
     
 ![Ritika's github stats](https://github-readme-stats.vercel.app/api?username=RitikaShrestha-me&theme=algolia&show_icons=true&hide_border=true)
 
 <p>
     <img class="center" alt="Ritika's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RitikaShrestha-me.RitikaShrestha-me"/>
-    [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev/repos/RitikaShrestha-me)
-    [![Years Badge](https://badges.pufler.dev/years/RitikaShrestha-me)](https://badges.pufler.dev)
 </p>
 
 
