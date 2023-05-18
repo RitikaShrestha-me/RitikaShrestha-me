@@ -4,13 +4,13 @@
 
 <img src="https://cdn.dribbble.com/users/870476/screenshots/11424359/media/ee4249f05ed8082acdfe792c612f7f21.jpg" align="right" width="400">
 
- 👩🏻‍🎓 Studying in Final Year, Bachelor's of Computer Engineering from NMIT
+ 👩🏻‍🎓 Completed my Bachelor's of Computer Science and Engineering from NMIT
 
- 🌱 Learning Web Development
+ 🌱 Learning Web and App Development
 
  ✈️ Love Travelling
 
-🇳🇵 A Proud Nepali
+ 🇳🇵 A Proud Nepali
 
  👩🏻‍💻 All of my projects are available at github.com/RitikaShrestha-me
  
