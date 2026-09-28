@@ -4,11 +4,16 @@
 
 <img src="https://cdn.dribbble.com/users/870476/screenshots/11424359/media/ee4249f05ed8082acdfe792c612f7f21.jpg" align="right" width="400">
 
- 👩🏻‍🎓 Completed my Bachelor's of Computer Science and Engineering from NMIT
 
- 🌱 Learning Web and App Development
+ 🌏 Pursuing a dual degree in Data Science & Network Intelligence at Télécom SudParis, France and IoT Systems Engineering at AIT, Thailand.
 
- ✈️ Love Travelling
+ 👑 HM King’s Scholarship recipient, Thailand.
+ 
+ 👩🏻‍🎓 Completed my Bachelor’s of Engineering in Computer Science & Engineering from NMIT
+
+ 🌱 Constantly learning, building, and discovering new possibilities.
+
+ ✈️ Finding joy in travelling, exploring new places, and collecting little moments along the way.
 
  🇳🇵 A Proud Nepali
 
